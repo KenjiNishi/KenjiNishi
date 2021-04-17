@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/001/839/037/8a4.png" width="500" />
 
 <!--
 **KenjiNishi/KenjiNishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
