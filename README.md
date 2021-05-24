@@ -27,6 +27,12 @@ Interested in:
 <img src="https://godotengine.org/asset-library/assets/logo.svg" alt="Godot" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+
+<p>
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
+</p>
+
 <p> <img src="https://github-readme-stats.vercel.app/api?username=KenjiNishi&show_icons=true&theme=tokyonight" alt="KenjiNishi" />
   
  
